@@ -18,8 +18,7 @@ public class calculate {
                 System.out.println(age6);
 float lenght = 78.0332F;
             System.out.println(lenght);
- boolean baby;
-            baby = true;
+ boolean baby = true;
             System.out.println(baby);
     }
 }

@@ -16,14 +16,10 @@ public class calculate {
                 System.out.println(age5);
         int age6 = 67;
                 System.out.println(age6);
-
-
-
-
 float lenght = 78.0332F;
             System.out.println(lenght);
- boolean baby;
-            baby = true;
-            System.out.println(baby);
+ boolean babyYes;
+            babyYes = true;
+            System.out.println(babyYes);
     }
 }

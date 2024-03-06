@@ -7,7 +7,7 @@ public class ArgumentsMethod {
 
     public static void main(String[] args) {
         String name = "Job4j";
-        int age = 6;
+        int age = 7;
         ArgumentsMethod.hello(name, age);
         ArgumentsMethod.hello(name, age);
         ArgumentsMethod.hello(name, age);
